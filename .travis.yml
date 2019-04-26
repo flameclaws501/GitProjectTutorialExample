@@ -1,0 +1,7 @@
+# Let travis know the language it needs to run
+language: python
+
+# command to run tests 
+# This is the script that enables travis to run the tests
+# There are many ways to do dependeing on how you want travis to run and get you coverage
+script: true
